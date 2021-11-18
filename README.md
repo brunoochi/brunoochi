@@ -7,10 +7,11 @@ Welcome to my Github:wave:! Find here samples of the kind of work that I do as a
 - :chart: developing performance dashboards using Power BI and Tableau (including all data preparation)
 - :crystal_ball: demand forecast and hypothesis testing using regression analysis and tree based machine learning models
 
-#### These are the tools I use daily
+#### These are the tools I use daily:
 - Python, Alteryx, Tableau, Power BI
 
-📫 Find me here:  [My Linkedin Page](https://www.linkedin.com/in/brunoochi/)
+#### Find me here:
+- 📫 [My Linkedin Page](https://www.linkedin.com/in/brunoochi/)
 
 
 <!--
