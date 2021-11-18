@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I am Bruno 👋
+
+Welcome to my Github! Find here samples of the kind of work that I do as a Data Analyst/Data Scientist. I am currently working for this global M&A consulting firm and my job is to deliver data-driven analysis and business insights that will help company management create value.
+
 
 <!--
 **brunoochi/brunoochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
