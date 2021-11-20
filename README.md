@@ -1,6 +1,6 @@
 # Hi, I am Bruno Ochi
 
-Welcome to my Github:wave:! Find here samples of the kind of work/tasks I do as a Data Analyst/Data Scientist. I am currently working for a global M&A consulting firm and my job is to deliver data-driven analysis and business insights that will help clients create value.
+Welcome to my Github:wave:! Find here samples of the kind of work/tasks I do as a Data Analyst/Data Scientist. I am currently working for a global M&A consulting firm in Japan and my job is to deliver data-driven analysis and business insights that will help clients create value.
 
 #### I have been particularly active in conducting projects like these:
 - :world_map: store network expansion plan using machine learning models and geospatial techniques
@@ -12,7 +12,6 @@ Welcome to my Github:wave:! Find here samples of the kind of work/tasks I do as 
 
 #### Find me here:
 - 📫 [My Linkedin Page](https://www.linkedin.com/in/brunoochi/)
-
 
 <!--
 **brunoochi/brunoochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
