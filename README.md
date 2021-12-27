@@ -2,6 +2,10 @@
 
 Welcome to my Github:wave:! Find here samples work/tasks I do as a Data Analyst/Data Scientist. I am currently working for a M&A consulting firm in Japan and my job is to deliver data-driven analysis and business insights that will help clients create value.
 
+#### Here's a list of my work
+- 🔭 [List](my_data_science_notes)
+
+
 #### I have been particularly active in conducting projects like these:
 - :world_map: store network expansion plan using statistical analysis and geospatial techniques
 - :chart: developing performance dashboards using Power BI and Tableau (including all data preparation)
