@@ -1,6 +1,6 @@
 # Hi, I am Bruno Ochi
 
-Find here samples work/tasks I do as a Data Analyst/Data Scientist. I am currently working for a M&A consulting firm in Japan and my job is to deliver data-driven analysis and business insights that will help clients create value.
+Find here samples work/tasks I do as a data analyst. I am currently working for a M&A consulting firm in Japan and my job is to deliver data-driven analysis and business insights that will help clients create value.
 
 #### Here's a list of my work
 - 🔭 [My Data Science Notes](https://github.com/brunoochi/my_data_science_notes)
