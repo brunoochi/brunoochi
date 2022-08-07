@@ -16,6 +16,7 @@ Find here samples work/tasks I do as a data analyst. I am currently working for 
 
 #### Find me here:
 - 📫 [My Linkedin Page](https://www.linkedin.com/in/brunoochi/)
+- 🌱 [My Personal Website](https://brunoochi.github.io/index.html)
 
 <!--
 **brunoochi/brunoochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
