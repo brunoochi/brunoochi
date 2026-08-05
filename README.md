@@ -3,7 +3,7 @@
 I am a data analyst with 6 year experience in the consulting industry. Currently, based in Japan. 
 
 #### Here's a list of my work
-- :world_map: [My Data Science Notes](https://github.com/brunoochi/my_data_science_notes)
+- :racehorse: [My Data Science Notes](https://github.com/brunoochi/my_data_science_notes)
 - :notes: [Dbt Project](https://github.com/brunoochi/jaffle)
 
 #### I have been particularly active in conducting projects like these:
