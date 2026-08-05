@@ -5,6 +5,7 @@ I am a data analyst with 6 year experience in the consulting industry. Currently
 #### Here's a sample of the things I've been working on throughout my career
 - :racehorse: [My Data Science Notes](https://github.com/brunoochi/my_data_science_notes)
 - :bomb: [Price Volume Mix Analysis](https://github.com/brunoochi/pvm_analysis)
+- :robot: [Resume Analyzer](https://github.com/brunoochi/resume_analyzer)
 - :notes: [Dbt Project](https://github.com/brunoochi/jaffle)
 
 #### I have been particularly active in conducting projects like these:
