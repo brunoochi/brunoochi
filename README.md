@@ -3,8 +3,8 @@
 I am a data analyst with 6 year experience in the consulting industry. Currently, based in Japan. 
 
 #### Here's a list of my work
-- 🔭 [My Data Science Notes](https://github.com/brunoochi/my_data_science_notes)
-
+- :world_map: [My Data Science Notes](https://github.com/brunoochi/my_data_science_notes)
+- :notes: [Dbt Project](https://github.com/brunoochi/jaffle)
 
 #### I have been particularly active in conducting projects like these:
 - :world_map: store network expansion plan using statistical analysis and geospatial techniques
@@ -16,7 +16,6 @@ I am a data analyst with 6 year experience in the consulting industry. Currently
 
 #### Find me here:
 - 📫 [My Linkedin Page](https://www.linkedin.com/in/brunoochi/)
-- 🌱 [My Personal Website](https://brunoochi.github.io/index.html)
 
 <!--
 **brunoochi/brunoochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
